@@ -23,4 +23,5 @@ const getImage = async() =>{
     }
 }
 
+
 getImage()
